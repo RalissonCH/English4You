@@ -8,9 +8,9 @@
 
 ## Decisões de Design
 
--A paleta de cores baseou-se em tons de azul, que transmitem seriedade e confiança, e elementos de destaque em laranja e vermelho para chamadas visuais, como botões e ações importantes.
--Botões grandes e fáceis de clicar.
--Fontes legíveis e modernas.
+- A paleta de cores baseou-se em tons de azul, que transmitem seriedade e confiança, e elementos de destaque em laranja e vermelho para chamadas visuais, como botões e ações importantes.
+- Botões grandes e fáceis de clicar.
+- Fontes legíveis e modernas.
 
 ## Como Executar Localmente
 
