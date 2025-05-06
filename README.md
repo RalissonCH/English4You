@@ -14,6 +14,7 @@
 │   ├── apoio-pedagogico.html
 │   ├── supervisao.html
 │   ├── rh.html
+│   ├── contato.html
 │   └── projetos.html
 ├── README.md   
 └── relatorio.md
@@ -58,14 +59,21 @@
 
 ---
 
-## Atualização: Páginas dos Setores
+## Atualização 1: Páginas dos Setores
 
-Para atender aos novos requisitos, foram adicionadas páginas para os principais setores, todas acessíveis via menu no topo do site:
+Para atender aos requisitos, foram adicionadas páginas para os principais setores, todas acessíveis via menu no topo do site:
 
 - Pais e Alunos (`pais-alunos.html`)
 - Apoio Pedagógico (`apoio-pedagogico.html`)
 - Supervisão (`supervisao.html`)
 - RH (`rh.html`)
 - Projetos (`projetos.html`)
+
+---
+
+### Atualização 2: Página de Contato 
+
+Criada a página `contato.html` com um formulário acessível e responsivo para que usuários possam entrar em contato. O formulário utiliza o atributo `mailto:` para envio de mensagens via e-mail.
+A página de contato pode ser acessada via links rápidos
 
 ---
