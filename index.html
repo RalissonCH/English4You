@@ -145,4 +145,20 @@
     </div>
   </footer>
 </body>
+<div class="cookie-banner" id="cookie-banner">
+  <p>Usamos cookies para melhorar sua experiência. Ao continuar navegando, você concorda com nossa <a href="setores/politica-privacidade.html">Política de Privacidade <a> e </a> <a href="setore/termos-uso.html">Termos de Uso</a>.</p>
+  <button onclick="aceitarCookies()">Aceitar</button>
+</div>
+
+<script>
+function aceitarCookies() {
+  localStorage.setItem("cookiesAceitos", "true");
+  document.getElementById("cookie-banner").style.display = "none";
+}
+
+if (!localStorage.getItem("cookiesAceitos")) {
+  document.getElementById("cookie-banner").style.display = "block";
+}
+</script>
+
 </html>
