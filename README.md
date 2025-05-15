@@ -15,6 +15,8 @@
 │   ├── supervisao.html
 │   ├── rh.html
 │   ├── contato.html
+│   ├── politica-privacidade.html
+│   ├── termos-uso.html
 │   └── projetos.html
 ├── README.md   
 └── relatorio.md
@@ -75,5 +77,15 @@ Para atender aos requisitos, foram adicionadas páginas para os principais setor
 
 Criada a página `contato.html` com um formulário acessível e responsivo para que usuários possam entrar em contato. O formulário utiliza o atributo `mailto:` para envio de mensagens via e-mail.
 A página de contato pode ser acessada via links rápidos
+
+---
+
+##  Atualização 3: Tratamento 
+
+Implementamos medidas para garantir a proteção dos dados pessoais dos usuários. As ações tomadas incluem:
+
+- Implementação de banner de consentimento de cookies.
+- Criação de Política de Privacidade.
+- Permitir que o usuário solicite alterações/exclusão por e-mail 
 
 ---
