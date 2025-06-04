@@ -18,7 +18,8 @@
 │   ├── politica-privacidade.html
 │   ├── termos-uso.html
 │   └── projetos.html
-├── README.md   
+├── README.md
+├── Documentação Completa do Projeto English4You.docx
 └── relatorio.md
 
 ```
